@@ -29,6 +29,6 @@ Simply clone and run `python bandit.py`. Assumes `matplotlib` is available. Also
 
 The problem was asking how a different step-size method could affect the k-bandit problem assuming a non-stationary target. The resulting graph looks like:
 
-![Graph](https://github.com/sgodwincs/k-bandit-exercise/graph.png)
+![Graph](https://github.com/sgodwincs/k-bandit-exercise/blob/master/graph.png)
 
 Where the red curve uses a sample average and the green curve uses a constant step-size parameter. The results are averaged over 2000 runs for each.
